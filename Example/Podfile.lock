@@ -1,0 +1,16 @@
+PODS:
+  - KATCoreUtil (1.0.0)
+
+DEPENDENCIES:
+  - KATCoreUtil (from `../`)
+
+EXTERNAL SOURCES:
+  KATCoreUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KATCoreUtil: d0c5e6fd30151517dde82581b7a979395f195174
+
+PODFILE CHECKSUM: 4591ea9fd27baa73c9dd0e0b9f10fbb198fc4830
+
+COCOAPODS: 1.5.3
