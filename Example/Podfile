@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KATCoreUtil_Tests' do
+  pod 'KATCoreUtil', :path => '../'
+  
+  
+end
